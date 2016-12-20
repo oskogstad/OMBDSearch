@@ -1,0 +1,230 @@
+DlangUI log file
+2016-12-20 02:44:15.759 I  Log level changed to Trace
+2016-12-20 02:44:15.774 I  Logger is initialized
+2016-12-20 02:44:15.774 D  myWinMain()
+2016-12-20 02:44:15.774 I  Current executable: C:\Users\elodin\gdrive\Dev\D\OMDBSearch\
+2016-12-20 02:44:15.774 I  Command line: 
+2016-12-20 02:44:15.774 I  Command line params: []
+2016-12-20 02:44:15.774 V  Creating platform
+2016-12-20 02:44:15.774 V  Registering window class
+2016-12-20 02:44:15.774 V  Initializing font manager
+2016-12-20 02:44:15.774 I  Creating Win32FontManager
+2016-12-20 02:44:15.774 I  Win32FontManager.initialize()
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Arial)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Arial Black)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Calibri)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Calibri Light)
+2016-12-20 02:44:15.774 D  registerFont(Serif,Cambria)
+2016-12-20 02:44:15.774 D  registerFont(Serif,Cambria Math)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Candara)
+2016-12-20 02:44:15.774 D  registerFont(Cursive,Comic Sans MS)
+2016-12-20 02:44:15.774 D  registerFont(MonoSpace,Consolas)
+2016-12-20 02:44:15.774 D  registerFont(Serif,Constantia)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Corbel)
+2016-12-20 02:44:15.774 D  registerFont(MonoSpace,Courier New)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Ebrima)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Franklin Gothic Medium)
+2016-12-20 02:44:15.774 D  registerFont(Fantasy,Gabriola)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Gadugi)
+2016-12-20 02:44:15.774 D  registerFont(Serif,Georgia)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Impact)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Javanese Text)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Leelawadee UI)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Leelawadee UI Semilight)
+2016-12-20 02:44:15.774 D  registerFont(MonoSpace,Lucida Console)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Lucida Sans Unicode)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Malgun Gothic)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Malgun Gothic Semilight)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft Himalaya)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft JhengHei)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft JhengHei UI)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft JhengHei Light)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft JhengHei UI Light)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft New Tai Lue)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft PhagsPa)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft Sans Serif)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft Tai Le)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft YaHei)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft YaHei UI)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft YaHei Light)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Microsoft YaHei UI Light)
+2016-12-20 02:44:15.774 D  registerFont(Cursive,Microsoft Yi Baiti)
+2016-12-20 02:44:15.774 D  registerFont(Serif,MingLiU-ExtB)
+2016-12-20 02:44:15.774 D  registerFont(Serif,PMingLiU-ExtB)
+2016-12-20 02:44:15.774 D  registerFont(Serif,MingLiU_HKSCS-ExtB)
+2016-12-20 02:44:15.774 D  registerFont(Cursive,Mongolian Baiti)
+2016-12-20 02:44:15.774 D  registerFont(MonoSpace,MS Gothic)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,MS UI Gothic)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,MS PGothic)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,MV Boli)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Myanmar Text)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Nirmala UI)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Nirmala UI Semilight)
+2016-12-20 02:44:15.774 D  registerFont(Serif,Palatino Linotype)
+2016-12-20 02:44:15.774 D  registerFont(Serif,Segoe MDL2 Assets)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Segoe Print)
+2016-12-20 02:44:15.774 D  registerFont(Cursive,Segoe Script)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Segoe UI)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Segoe UI Black)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Segoe UI Emoji)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Segoe UI Historic)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Segoe UI Light)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Segoe UI Semibold)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Segoe UI Semilight)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Segoe UI Symbol)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,SimSun)
+2016-12-20 02:44:15.774 D  registerFont(MonoSpace,NSimSun)
+2016-12-20 02:44:15.774 D  registerFont(MonoSpace,SimSun-ExtB)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Sitka Small)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Sitka Text)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Sitka Subheading)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Sitka Heading)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Sitka Display)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Sitka Banner)
+2016-12-20 02:44:15.774 D  registerFont(Serif,Sylfaen)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Tahoma)
+2016-12-20 02:44:15.774 D  registerFont(Serif,Times New Roman)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Trebuchet MS)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Verdana)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Yu Gothic)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Yu Gothic UI)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Yu Gothic UI Semibold)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Yu Gothic Light)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Yu Gothic UI Light)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Yu Gothic Medium)
+2016-12-20 02:44:15.774 D  registerFont(SansSerif,Yu Gothic UI Semilight)
+2016-12-20 02:44:15.774 I  Found 83 font faces
+2016-12-20 02:44:15.774 D  initResourceManagers()
+2016-12-20 02:44:15.774 I  Creating ImageCache
+2016-12-20 02:44:15.774 I  Creating DrawableCache
+2016-12-20 02:44:15.774 D  Calling initSharedResourceManagers()
+2016-12-20 02:44:15.774 D  Calling initStandardEditorActions()
+2016-12-20 02:44:15.774 D  Calling registerStandardWidgets()
+2016-12-20 02:44:15.774 D  Registering standard widgets for DML
+2016-12-20 02:44:15.774 D  initResourceManagers() -- finished
+2016-12-20 02:44:15.774 D  Creating default theme
+2016-12-20 02:44:15.774 D  Loading Derelict GL
+2016-12-20 02:44:15.790 D  Derelict GL - loaded
+2016-12-20 02:44:15.790 I  Entering UIAppMain: []
+2016-12-20 02:44:15.790 D  Platform.createWindow is called
+2016-12-20 02:44:15.790 V  Platform.createWindow : setDefaultLanguageAndThemeIfNecessary
+2016-12-20 02:44:15.790 V  setDefaultLanguageAndThemeIfNecessary : setting UI language
+2016-12-20 02:44:15.790 V  Loading language file
+2016-12-20 02:44:15.790 D  Loading string resources from file @embedded@/std_en.ini
+2016-12-20 02:44:15.790 V  Calling onThemeChanged
+2016-12-20 02:44:15.790 V  setDefaultLanguageAndThemeIfNecessary : setting UI theme
+2016-12-20 02:44:15.790 V  uiTheme setting new theme theme_default
+2016-12-20 02:44:15.790 I  Applying loaded theme theme_default
+2016-12-20 02:44:15.790 V  Platform.createWindow : new Win32Window
+2016-12-20 02:44:15.790 D  Window onCreate
+2016-12-20 02:44:15.790 V  created window, adding to map
+2016-12-20 02:44:15.806 V  Reloading DerelictGL3
+2016-12-20 02:44:15.806 V  Reloading DerelictGL
+2016-12-20 02:44:15.806 D  glSupport not initialized: trying to create
+2016-12-20 02:44:15.806 I  initShaders() is called
+2016-12-20 02:44:15.806 V  Compiling solid fill program
+2016-12-20 02:44:15.806 D  compileShader: glslVersion = 4.30 - Build 20.19.15.4416, type: GL_VERTEX_SHADER
+2016-12-20 02:44:15.806 D  compileShader: glslVersion = 4.30 - Build 20.19.15.4416, type: GL_FRAGMENT_SHADER
+2016-12-20 02:44:15.806 D  Program linked successfully
+2016-12-20 02:44:15.806 V  Program is initialized successfully
+2016-12-20 02:44:15.806 V  Compiling line program
+2016-12-20 02:44:15.806 D  compileShader: glslVersion = 4.30 - Build 20.19.15.4416, type: GL_VERTEX_SHADER
+2016-12-20 02:44:15.806 D  compileShader: glslVersion = 4.30 - Build 20.19.15.4416, type: GL_FRAGMENT_SHADER
+2016-12-20 02:44:15.806 D  Program linked successfully
+2016-12-20 02:44:15.806 V  Program is initialized successfully
+2016-12-20 02:44:15.806 V  Compiling texture program
+2016-12-20 02:44:15.806 D  compileShader: glslVersion = 4.30 - Build 20.19.15.4416, type: GL_VERTEX_SHADER
+2016-12-20 02:44:15.806 D  compileShader: glslVersion = 4.30 - Build 20.19.15.4416, type: GL_FRAGMENT_SHADER
+2016-12-20 02:44:15.806 D  Program linked successfully
+2016-12-20 02:44:15.806 V  Program is initialized successfully
+2016-12-20 02:44:15.806 D  Shaders compiled successfully
+2016-12-20 02:44:15.806 V  shaders are ok
+2016-12-20 02:44:15.806 V  OpenGL is initialized ok
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/editbox_background_disabled_focus.9.png
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/editbox_background_focus.9.png
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/editbox_background_disabled.9.png
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/editbox_background_normal.9.png
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/scrollbar_btn_up.png
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/scrollbar_btn_background_pressed.9.png
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/scrollbar_btn_background_normal.9.png
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/scrollbar_btn_background_hover.9.png
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/scrollbar_btn_down.png
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/scrollbar_indicator_vertical.png
+2016-12-20 02:44:15.806 D  Loading image from file @embedded@/scrollbar_btn_background_disabled.9.png
+2016-12-20 02:44:15.821 D  WM_WINDOWPOSCHANGED: WINDOWPOS(300744, 1A0480, 182, 182, 492, 328, 268439618)
+2016-12-20 02:44:15.821 D  onResize 490x303
+2016-12-20 02:44:15.821 D  resize: measure took 0 ms
+2016-12-20 02:44:15.821 D  resize: layout took 0 ms
+2016-12-20 02:44:15.821 V  created glyph cache page 1024x1024
+2016-12-20 02:44:15.821 V  created image cache page 1024x1024
+2016-12-20 02:44:15.821 D  Loading image from file @embedded@/scrollbar_btn_right.png
+2016-12-20 02:44:15.821 D  Loading image from file @embedded@/scrollbar_btn_left.png
+2016-12-20 02:44:15.837 D  updateTexture - new texture id=1
+2016-12-20 02:44:15.837 D  updateTexture for cache page - setting image 1024x1024 tx=1
+2016-12-20 02:44:15.837 D  updateTexture - new texture id=2
+2016-12-20 02:44:15.837 D  updateTexture for cache page - setting image 1024x1024 tx=2
+2016-12-20 02:44:18.844 D  keydown, keyFlags=0
+2016-12-20 02:44:18.875 D  keydown, keyFlags=0
+2016-12-20 02:44:19.047 D  keydown, keyFlags=0
+2016-12-20 02:44:19.109 D  keydown, keyFlags=0
+2016-12-20 02:44:19.156 D  keydown, keyFlags=0
+2016-12-20 02:44:19.281 D  keydown, keyFlags=0
+2016-12-20 02:44:19.328 D  keydown, keyFlags=0
+2016-12-20 02:44:19.375 D  keydown, keyFlags=0
+2016-12-20 02:44:19.406 D  keydown, keyFlags=0
+2016-12-20 02:44:19.469 D  keydown, keyFlags=0
+2016-12-20 02:44:19.562 D  keydown, keyFlags=0
+2016-12-20 02:44:19.609 D  keydown, keyFlags=0
+2016-12-20 02:44:19.640 D  keydown, keyFlags=0
+2016-12-20 02:44:19.656 D  keydown, keyFlags=0
+2016-12-20 02:44:19.750 D  keydown, keyFlags=0
+2016-12-20 02:44:19.765 D  keydown, keyFlags=0
+2016-12-20 02:44:19.844 D  keydown, keyFlags=0
+2016-12-20 02:44:19.875 D  keydown, keyFlags=0
+2016-12-20 02:44:19.969 D  keydown, keyFlags=0
+2016-12-20 02:44:19.984 D  keydown, keyFlags=0
+2016-12-20 02:44:20.203 D  keydown, keyFlags=0
+2016-12-20 02:44:20.547 E  Abnormal UIAppMain termination
+2016-12-20 02:44:20.547 E  UIAppMain exception: std.json.JSONException@std\json.d(473): Key not found: Search
+----------------
+0x00575481 in pure @safe void std.exception.bailOut!(std.json.JSONException).bailOut(immutable(char)[], uint, const(char[]))
+0x0043B82A in D7dlangui4core7signals50__T6SignalTC7dlangui7widgets6widget12OnKeyHandlerZ6Signal4emitMFC7dlangui7widgets6widget6WidgetC7dlangui4core6events8KeyEventZ14__foreachbody4MFKDFC7dlangui7widgets6widget6WidgetC7dlangui4core6events8KeyEventZbZi at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\core\signals.d(215)
+0x0044B7B1 in int dlangui.core.collections.Collection!(bool delegate(dlangui.widgets.widget.Widget, dlangui.core.events.KeyEvent), false).Collection.opApply(int delegate(ref bool delegate(dlangui.widgets.widget.Widget, dlangui.core.events.KeyEvent))) at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\core\collections.d(158)
+0x0043B7E0 in bool dlangui.core.signals.Signal!(dlangui.widgets.widget.OnKeyHandler).Signal.emit(dlangui.widgets.widget.Widget, dlangui.core.events.KeyEvent) at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\core\signals.d(214)
+0x0043B790 in bool dlangui.core.signals.Signal!(dlangui.widgets.widget.OnKeyHandler).Signal.opCall(dlangui.widgets.widget.Widget, dlangui.core.events.KeyEvent) at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\core\signals.d(211)
+0x00447F8E in bool dlangui.widgets.widget.Widget.onKeyEvent(dlangui.core.events.KeyEvent) at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\widgets\widget.d(1176)
+0x00466B69 in bool dlangui.widgets.editors.EditWidgetBase.onKeyEvent(dlangui.core.events.KeyEvent) at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\widgets\editors.d(1743)
+0x0043B105 in bool dlangui.widgets.editors.EditLine.onKeyEvent(dlangui.core.events.KeyEvent) at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\widgets\editors.d(2016)
+0x0048CAF5 in bool dlangui.platforms.common.platform.Window.dispatchKeyEvent(dlangui.core.events.KeyEvent) at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\platforms\common\platform.d(701)
+0x004AF650 in bool dlangui.platforms.windows.winapp.Win32Window.onKey(dlangui.core.events.KeyAction, uint, int, dchar, bool) at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\platforms\windows\winapp.d(881)
+0x004B63FF in WndProc at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\platforms\windows\winapp.d(1400)
+0x74BAD2B3 in SetManipulationInputTarget
+0x74B8E88A in DispatchMessageW
+0x74B8DF17 in CallWindowProcW
+0x7059CE43
+0x74BAD2B3 in SetManipulationInputTarget
+0x74B8E88A in DispatchMessageW
+0x74B8E1E4 in DispatchMessageW
+0x74B8DFA0 in DispatchMessageW
+0x00472AC0 in int dlangui.platforms.windows.winapp.Win32Platform.enterMessageLoop() at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\platforms\windows\winapp.d(937)
+0x004244B7 in UIAppMain at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\source\app.d(229)
+0x0045B1FA in int dlangui.platforms.windows.winapp.myWinMain(void*, void*, char*, int) at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\platforms\windows\winapp.d(1259)
+0x0043989C in DLANGUIWinMain at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\platforms\windows\winapp.d(1140)
+0x0042404A in WinMain at C:\Users\elodin\gdrive\Dev\D\OMDBSearch\..\..\..\..\AppData\Roaming\dub\packages\dlangui-0.9.46\dlangui\src\dlangui\platforms\common\platform.d(1576)
+0x005BCB8E in WinMainCRTStartup
+0x74AB62C4 in BaseThreadInitThunk
+0x77440FD9 in RtlSubscribeWnfStateChangeNotification
+0x77440FA4 in RtlSubscribeWnfStateChangeNotification
+2016-12-20 02:44:20.734 E  Non-zero Widget instance count when exiting: 22
+2016-12-20 02:44:20.734 I  Destroying DrawableCache
+2016-12-20 02:44:20.734 E  Drawable instace count after destroying of DrawableCache: 9
+2016-12-20 02:44:20.734 I  Destroying ImageCache
+2016-12-20 02:44:20.734 I  Destroying Win32FontManager
+2016-12-20 02:44:20.734 D  Destroying font manager
+2016-12-20 02:44:20.734 E  Non-zero DrawBuf instance count when exiting: 14
+2016-12-20 02:44:20.734 E  Non-zero Style instance count when exiting: 10
+2016-12-20 02:44:20.734 E  Non-zero ImageDrawable instance count when exiting: 9
+2016-12-20 02:44:20.734 E  Non-zero Drawable instance count when exiting: 16
+2016-12-20 02:44:20.734 D  Exiting main
+2016-12-20 02:44:20.734 D  Calling GC.collect
+2016-12-20 02:44:20.734 E  Non-zero DrawBuf instance count when exiting: 14

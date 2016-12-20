@@ -1,0 +1,12 @@
+{
+	"name": "omdbsearch",
+	"authors": [
+		"oskogstad"
+	],
+	"dependencies": {
+		"dlangui": "~>0.9.46"
+	},
+	"description": "simple OMDB search",
+	"copyright": "mit",
+	"license": "MIT"
+}
